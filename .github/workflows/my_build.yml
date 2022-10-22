@@ -21,4 +21,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/cicd_docker_github:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/cicd_docker_github:0.1
