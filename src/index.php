@@ -1,2 +1,2 @@
 <?php
-echo 'PHP app running :::: by Nguyen The Ngoccc';
+echo 'PHP app running :::: by Nguyen The Ngoc';
